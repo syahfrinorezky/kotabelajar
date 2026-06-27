@@ -1,0 +1,17 @@
+# FiveM FXServer Artifacts (Jangan di-commit karena ukurannya besar & platform-dependent)
+/server/
+/server.7z
+
+# txAdmin Data & Logs
+/txData/default/
+/txData/admins.json
+
+# Cache & Local Files dari Base Server
+/txData/QBCore_1D0140.base/cache/
+/txData/QBCore_1D0140.base/.replxx_history
+/txData/QBCore_1D0140.base/server.cfg.bkp
+
+# Backup files
+*.bak
+*.bkp
+*.log
